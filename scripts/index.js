@@ -25,6 +25,6 @@ playerBtn.forEach((btn, i) =>
 // console.log(playerBlock);
 // console.log(playerBtn);
 
+videoPlayerInit();
 radioPlayerInit();
 musicPlayerInit();
-videoPlayerInit();

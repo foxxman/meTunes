@@ -1,6 +1,7 @@
 import { addZero } from "./supScripts.js";
 
 export const musicPlayerInit = () => {
+   console.log("Music");
   // audio-cover
   // audio-img
   //   audio-header
